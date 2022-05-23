@@ -50,7 +50,7 @@ const Form = ({addUser, userSelected, deselected, editData}) => {
     return (
         <div className='back-form'>
             <form action="" className='form' onSubmit={submit}>
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/MalanFernando/UserCRUD" target="_blank" rel="noopener noreferrer">
                     <i className="github fa-brands fa-github"></i>
                 </a>
                 <div className='form-img'></div>
